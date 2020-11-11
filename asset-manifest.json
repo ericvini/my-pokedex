@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-pokedex/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/my-pokedex/static/js/main.fdc9e6f6.chunk.js",
-    "main.js.map": "/my-pokedex/static/js/main.fdc9e6f6.chunk.js.map",
-    "runtime-main.js": "/my-pokedex/static/js/runtime-main.8a6ab4cf.js",
-    "runtime-main.js.map": "/my-pokedex/static/js/runtime-main.8a6ab4cf.js.map",
-    "static/js/2.2029a11b.chunk.js": "/my-pokedex/static/js/2.2029a11b.chunk.js",
-    "static/js/2.2029a11b.chunk.js.map": "/my-pokedex/static/js/2.2029a11b.chunk.js.map",
-    "static/js/3.04f08eee.chunk.js": "/my-pokedex/static/js/3.04f08eee.chunk.js",
-    "static/js/3.04f08eee.chunk.js.map": "/my-pokedex/static/js/3.04f08eee.chunk.js.map",
+    "main.css": "/my-pokedex/static/css/main.db295984.chunk.css",
+    "main.js": "/my-pokedex/static/js/main.d7aa3a9c.chunk.js",
+    "main.js.map": "/my-pokedex/static/js/main.d7aa3a9c.chunk.js.map",
+    "runtime-main.js": "/my-pokedex/static/js/runtime-main.68d0e463.js",
+    "runtime-main.js.map": "/my-pokedex/static/js/runtime-main.68d0e463.js.map",
+    "static/js/2.cabade84.chunk.js": "/my-pokedex/static/js/2.cabade84.chunk.js",
+    "static/js/2.cabade84.chunk.js.map": "/my-pokedex/static/js/2.cabade84.chunk.js.map",
+    "static/js/3.2e2739b6.chunk.js": "/my-pokedex/static/js/3.2e2739b6.chunk.js",
+    "static/js/3.2e2739b6.chunk.js.map": "/my-pokedex/static/js/3.2e2739b6.chunk.js.map",
     "index.html": "/my-pokedex/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/my-pokedex/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.2029a11b.chunk.js.LICENSE.txt": "/my-pokedex/static/js/2.2029a11b.chunk.js.LICENSE.txt"
+    "static/css/main.db295984.chunk.css.map": "/my-pokedex/static/css/main.db295984.chunk.css.map",
+    "static/js/2.cabade84.chunk.js.LICENSE.txt": "/my-pokedex/static/js/2.cabade84.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a6ab4cf.js",
-    "static/js/2.2029a11b.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.fdc9e6f6.chunk.js"
+    "static/js/runtime-main.68d0e463.js",
+    "static/js/2.cabade84.chunk.js",
+    "static/css/main.db295984.chunk.css",
+    "static/js/main.d7aa3a9c.chunk.js"
   ]
 }
