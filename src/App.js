@@ -68,6 +68,7 @@ class App extends React.Component {
     const favoritePokemons = pokemons.filter(({ id }) => isPokemonFavoriteById[id]);
 
     return (
+      
       <Switch>
         <Route
           exact
