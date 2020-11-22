@@ -71,7 +71,7 @@ class App extends React.Component {
       <Switch>
         <Route
           exact
-          path="ericvini.github.io/my-pokedex/"
+          path="/"
           render={({ match }) => this.renderPokedex(match)}
         />
         <Route
@@ -90,7 +90,7 @@ class App extends React.Component {
       <div className="App">
         <h1> Pokédex </h1>
         <nav>
-          <Link className="link" to="ericvini.github.io/my-pokedex/"> Home </Link>
+          <Link className="link" to="/"> Home </Link>
           <Link className="link" to="/about"> About </Link>
           <Link className="link" to="/favorites"> Favorite Pokémons </Link>
         </nav>
