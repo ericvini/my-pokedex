@@ -71,7 +71,7 @@ class App extends React.Component {
       <Switch>
         <Route
           exact
-          path="/"
+          path="ericvini.github.io/"
           render={({ match }) => this.renderPokedex(match)}
         />
         <Route
