@@ -68,11 +68,11 @@ class App extends React.Component {
     const favoritePokemons = pokemons.filter(({ id }) => isPokemonFavoriteById[id]);
 
     return (
-      
+
       <Switch>
         <Route
           exact
-          path="ericvini.github.io/"
+          path="/my-pokedex"
           render={({ match }) => this.renderPokedex(match)}
         />
         <Route
@@ -91,7 +91,7 @@ class App extends React.Component {
       <div className="App">
         <h1> Pokédex </h1>
         <nav>
-          <Link className="link" to="/"> Home </Link>
+          <Link className="link" to="/my-pokedex"> Home </Link>
           <Link className="link" to="/about"> About </Link>
           <Link className="link" to="/favorites"> Favorite Pokémons </Link>
         </nav>
